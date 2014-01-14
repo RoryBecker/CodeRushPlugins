@@ -12,8 +12,7 @@ Well yes, but there are a few advantages to hosting such a site here on guithub.
 * Git All The Things! - Push, Pull, Reset, *cough* rebase *cough* Git all the things.
 * Push for me, Pull (request) for you - If you think something is missing, let me know. I'm sure I'll be very happy to take Pull requests. :D
 
-### [About](./About.html)
-
-
 ### Designer Templates
 Yeah someone else has done all the hard work to make this look nice :) That's because you really don't want me messing around with html and css, when there are plugins to be made :D
+
+So.....[on to the plugins](./Plugins.html)
