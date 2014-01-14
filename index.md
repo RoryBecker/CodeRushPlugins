@@ -17,14 +17,3 @@ Well yes, but there are a few advantages to hosting such a site here on guithub.
 
 ### Designer Templates
 Yeah someone else has done all the hard work to make this look nice :) That's because you really don't want me messing around with html and css, when there are plugins to be made :D
-
-### Authors and Contributors
-* Think you can do better? - Fork me. Seriously, Go for it :)
-* Got a plugin you'd like me to link to? Send me a pull request or contact me.
-* Got an idea for a new plugin? Let me know. :)
-
-### Contact Me 
-The easiest way to reach me is on twitter. My twitter handle is the same as my github.com profile (@RoryBecker) you can also email me @ roryb@devexpress.com
-
-### Support or Contact
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and they'll help you sort it out.

@@ -3,9 +3,9 @@ layout: SiteMaster
 ---
 ### Plugin Locations
 
-## Visual Studio Gallery
+#### Visual Studio Gallery
 
-## GitHub.com
+#### GitHub.com
 
-## Community Site
+#### Community Site
 
