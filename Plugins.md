@@ -20,23 +20,23 @@ I started storing my newer plugins in git repositories (one plugin to a repo). A
 
 Hosting my plugins in this manner has a number of benefits. 
  
- * Plugin repos can be forked (copied) **without needing any explicit permission**.
- * Anyone can make a pull request (improve code and offer it back) **without needing any explicit permission**.
- * github.com has **releases**. Tags to which you can attach binaries etc which eases the process of distribution. I typically attach the VSIX directly to the release.
+ * Plugin repos can be forked (copied) __without needing any explicit permission__.
+ * Anyone can make a pull request (improve code and offer it back) __without needing any explicit permission__.
+ * github.com has __releases__. Tags to which you can attach binaries etc which eases the process of distribution. I typically attach the VSIX directly to the release.
  
  ...and I'm sure there are other benefits as well.
 
- Therefore you can now also typically find [**My** plugins on github](https://github.com/search?q=CodeRush++user%3ARoryBecker&type=Repositories&ref=advsearch&l=
+ Therefore you can now also typically find [__My__ plugins on github](https://github.com/search?q=CodeRush++user%3ARoryBecker&type=Repositories&ref=advsearch&l=
  
- * https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals
- * https://github.com/RoryBecker/CR_CleanupFileAndNamespaces
- * https://github.com/RoryBecker/CR_TemplateExpandWithCollapsedRegions
- * https://github.com/RoryBecker/CR_RemoveQuotesFromString
- * https://github.com/RoryBecker/CR_XMLNavapsedRegions
- * https://github.com/RoryBecker/CR_RenameFileSync
- * https://github.com/RoryBecker/CR_Fader
- * https://github.com/RoryBecker/CR_WrapInTryFunction
- * https://github.com/RoryBecker/CR_PreventDeleteCollapsedCode
- * https://github.com/RoryBecker/CR_TemplateByExample
+ * [CR_ExtractMethodAndInlineLiterals](https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals)
+ * [CR_CleanupFileAndNamespaces](https://github.com/RoryBecker/CR_CleanupFileAndNamespaces)
+ * [CR_TemplateExpandWithCollapsedRegions](https://github.com/RoryBecker/CR_TemplateExpandWithCollapsedRegions)
+ * [CR_RemoveQuotesFromString](https://github.com/RoryBecker/CR_RemoveQuotesFromString)
+ * [CR_XMLNav](https://github.com/RoryBecker/CR_XMLNav)
+ * [CR_RenameFileSync](https://github.com/RoryBecker/CR_RenameFileSync)
+ * [CR_Fader](https://github.com/RoryBecker/CR_Fader)
+ * [CR_WrapInTryFunction](https://github.com/RoryBecker/CR_WrapInTryFunction)
+ * [CR_PreventDeleteCollapsedCode](https://github.com/RoryBecker/CR_PreventDeleteCollapsedCode)
+ * [CR_TemplateByExample](https://github.com/RoryBecker/CR_TemplateByExample)
  
  
