@@ -20,13 +20,13 @@ I started storing my newer plugins in git repositories (one plugin to a repo). A
 
 Hosting my plugins in this manner has a number of benefits. 
  
- * Plugin repos can be forked (copied) *without needing any explicit permission*.
- * Anyone can make a pull request (improve code and offer it back) *without needing any explicit permission*.
- * github.com has *releases*. Tags to which you can attach binaries etc which eases the process of distribution. I typically attach the VSIX directly to the release.
+ * Plugin repos can be forked (copied) **without needing any explicit permission**.
+ * Anyone can make a pull request (improve code and offer it back) **without needing any explicit permission**.
+ * github.com has **releases**. Tags to which you can attach binaries etc which eases the process of distribution. I typically attach the VSIX directly to the release.
  
  ...and I'm sure there are other benefits as well.
 
- Therefore you can now also typically find [*My* plugins on github](https://github.com/search?q=CodeRush++user%3ARoryBecker&type=Repositories&ref=advsearch&l=
+ Therefore you can now also typically find [**My** plugins on github](https://github.com/search?q=CodeRush++user%3ARoryBecker&type=Repositories&ref=advsearch&l=
  
  * https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals
  * https://github.com/RoryBecker/CR_CleanupFileAndNamespaces
