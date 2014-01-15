@@ -22,11 +22,11 @@ Hosting my plugins in this manner has a number of benefits.
  
  * Plugin repos can be forked (copied) __without needing any explicit permission__.
  * Anyone can make a pull request (improve code and offer it back) __without needing any explicit permission__.
- * [github.com](github.com) has __releases__. Tags to which you can attach binaries etc which eases the process of distribution. I typically attach the VSIX directly to the release.
+ * [github.com](http://github.com) has __releases__. Tags to which you can attach binaries etc which eases the process of distribution. I typically attach the VSIX directly to the release.
  
- ...and I'm sure there are other benefits as well.
+...and I'm sure there are other benefits as well.
 
- Therefore you can now also typically find [__My__ plugins on github](https://github.com/search?q=CodeRush++user%3ARoryBecker&type=Repositories&ref=advsearch&l=)
+Therefore you can now also typically find [__My__ plugins on github](https://github.com/search?q=CodeRush++user%3ARoryBecker&type=Repositories&ref=advsearch&l=)
  
  * [CR_ExtractMethodAndInlineLiterals](https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals)
  * [CR_CleanupFileAndNamespaces](https://github.com/RoryBecker/CR_CleanupFileAndNamespaces)
