@@ -7,7 +7,7 @@ layout: SiteMaster
 * Got an idea for a new plugin? Let me know. :)
 
 ### Contact Me 
-The easiest way to reach me is on twitter. My twitter handle is the same as my github.com profile (@RoryBecker) you can also email me @ roryb@devexpress.com
+ [Full Contact Details](./Contact.html)
 
 ### Support or Contact
 Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and they'll help you sort it out.
