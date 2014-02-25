@@ -1,17 +1,21 @@
 ---
 layout: SiteMaster
 ---
-### Welcome to CodeRush Plugins.
+
+### F.A.Q
+
+#### What is the purpose of this site?
 This site is here to provide a simple one stop shop for finding plugins.
 Initially I'll be adding the plugins whose source is stored here on github, but I'll also be happy enough to add references to plugins held elsewhere.
+
+#### Have you abandoned the DXCoreCommunity site?
+Yes and No. I have decided to use git for any new plugins I create, but I am not abandonning the plugins hosted on the previous site.
+The site will remain for as long as it holds useful content. Personally, if I could "Magic" all of the plugins and wiki pages into sparate git repos, then I would. 
+However that would take significant effort, and so I will settle for migrating plugins as, and when, it makes sence to do so.
 
 #### Why use Git for new plugins?
 In my humble opinion, Git is quicker, simpler and more flexible than any other VCS I've ever used. 
 This being the case I decided that I would use Git for all my future plugin projects.
-
-#### Have you abandoned the DXCoreCommunity site?
-Yes and No. The site will remain for as long as it holds useful content. If I could "Magic" all of the plugins and wiki pages into sparate git repos, then I would. 
-However that would take significant effort, and so I will settle for migrating plugins as, and when, it makes sence to do so.
 
 #### Why another site?
 There are now 3 different locations where you can get community plugins.
@@ -34,7 +38,7 @@ Therefore if anyone reading this has a plugin they would like to add, easily sen
 People could send al sorts of pull requests...
 ...Please link to this plugin.
 ...I think we need a page which lists all plugin of type X
-...You typing\spelling is aweful... I have fixed this for you. :)
+...Your typing\spelling is aweful... I have fixed this for you. :)
 
  
 With plugins being located in all these different locations, it seemed sensible to have once location from which could unify these locations
@@ -44,14 +48,17 @@ Therefore I have created this site (on GitHub) which I will use as the primary c
 I will continue to link to the Community site for as long as there is useful content there.
 
 #### What about all the existing plugins?
-The short answer is.. nothing. They'll stay exactly where they are unless I discover a reason to change this.
+The short answer is.. 
+Nothing. In the short term they'll stay exactly where they are unless I discover a reason to change this.
 
-I'm inclined to move plugins to GitHub when work needs doing on a particular one.
+The longer answer is.. 
+If a plugin needs additional work, then I'd be inclined to move it's source to a new git repository (probably published on github)
+If I were to do this, then I would also move the Wiki page and any images and leave a forwarding link in it's place detailing where to find the plugin in future.
 I'd also be happy to move a plugin to github if someone else wanted to work on it in isolation.
 
-However some of those plugins were contributed by other people. 
-When I make a git repository using code from an existing SVN project, I'll try to contact the original author. 
-IMO the plugin should try to exist primarily in only one medium and so I'll be attempting to move plugins rather than copy them.
+However some of the plugins were not contributed by me, but by other people. 
+When considering moving a plugin to github, Whose code I did not originally write, I'll try to contact the original author to check with them about this.
+This will either result in a clean move from SVN -> Git, or a split in the codebase of that plugin, which I will note in the SVN and github Wiki pages.
 
 #### So where should I go to find Updates and new Plugins?
 I think you've found it. I am hoping for this site to be the one stop shop for links to plugins of all kinds in many locations.
@@ -67,7 +74,6 @@ If you have improvements you'd like to see, let me know and we can work together
 * You can email me at [roryb@devexpress.com](mailto:roryb@devexpress.com) or [rorybecker@gmail.com](mailto:rorybecker@gmail.com)
 
 My public Github account is [http://github.com/RoryBecker](http://github.com/RoryBecker)
-
 
 ##### How do I get my plugin listed?
 Contact me and we'll work out the best way of presenting your plugin
