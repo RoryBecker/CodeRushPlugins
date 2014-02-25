@@ -14,10 +14,10 @@ See [our FAQ](./FAQ.html)
 See [our plugins page](./Plugins.html)
 
 #### Want to help make this site better? 
-    [Fork it!](https://github.com/RoryBecker/CodeRushPlugins)
+[Fork it!](https://github.com/RoryBecker/CodeRushPlugins)
 
-#### Contact Details.
- [Full Contact Details](./Contact.html)
+#### Contact
+[Full Contact Details](./Contact.html)
 
 Note: 
 This site is regularly refactored. As such certain information may have been duplicated in multiple locations.

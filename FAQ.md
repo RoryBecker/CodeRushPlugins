@@ -36,9 +36,9 @@ Being based in a Git repository, this site can be forked and pull requests made 
 Therefore if anyone reading this has a plugin they would like to add, easily send a pull request containing those additions.
 
 People could send al sorts of pull requests...
-...Please link to this plugin.
-...I think we need a page which lists all plugin of type X
-...Your typing\spelling is aweful... I have fixed this for you. :)
+* Please link to this plugin.
+* I think we need a page which lists all plugin of type X
+* Your typing\spelling is aweful... I have fixed this for you. :)
 
  
 With plugins being located in all these different locations, it seemed sensible to have once location from which could unify these locations
