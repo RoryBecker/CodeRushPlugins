@@ -30,7 +30,7 @@ These people prefer to either keep their source to themselves or to publish it i
 
 The existing site also suffers from the same user rights limitation. ie only those who have been granted explicit access to the rpository can alter the site.
 
-Therfore I created this site (hosted again on GitHub) which I hope, in time, will replace the old community site. 
+Therfore I created this site (hosted again on GitHub) which I hope in time, will replace the old community site. 
 Note: I will continue to link to the existing site, which will not be removed until such time as all useful content is replicated or moved elsewhere.
 Being based in a Git repository, this site can be forked and pull requests made without any special permissions. 
 Therefore if anyone reading this has a plugin they would like to add, easily send a pull request containing those additions.
