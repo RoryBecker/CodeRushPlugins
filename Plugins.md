@@ -28,9 +28,9 @@ Hosting my plugins in this manner has a number of benefits.
 
 Therefore you can now also typically find [__My__ plugins on github](https://github.com/search?q=CodeRush++user%3ARoryBecker&type=Repositories&ref=advsearch&l=)
  
+ * [CR_TemplateExpandWithCollapsedRegions](https://github.com/RoryBecker/CR_TemplateExpandWithCollapsedRegions)
  * [CR_ExtractMethodAndInlineLiterals](https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals)
  * [CR_CleanupFileAndNamespaces](https://github.com/RoryBecker/CR_CleanupFileAndNamespaces)
- * [CR_TemplateExpandWithCollapsedRegions](https://github.com/RoryBecker/CR_TemplateExpandWithCollapsedRegions)
  * [CR_RemoveQuotesFromString](https://github.com/RoryBecker/CR_RemoveQuotesFromString)
  * [CR_XMLNav](https://github.com/RoryBecker/CR_XMLNav)
  * [CR_RenameFileSync](https://github.com/RoryBecker/CR_RenameFileSync)
