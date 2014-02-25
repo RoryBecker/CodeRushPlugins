@@ -28,23 +28,15 @@ Hosting my plugins in this manner has a number of benefits.
 
 Therefore you can now also typically find [__My__ plugins on github](https://github.com/search?q=CodeRush++user%3ARoryBecker&type=Repositories&ref=advsearch&l=)
  
- * [CR_TemplateExpandWithCollapsedRegions](https://github.com/RoryBecker/CR_TemplateExpandWithCollapsedRegions)
- 
-   Provides a new command to expand a template and then collapsing any regions it might generate.
- * [CR_ExtractMethodAndInlineLiterals](https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals)
-   Extracts all literals in the selected code, then extracts the code, before inlining the literals again.
- * [CR_CleanupFileAndNamespaces](https://github.com/RoryBecker/CR_CleanupFileAndNamespaces)
-    Executes the CleaupFile action and OptimizeNamespace rafactorings in sequence.
- * [CR_RemoveQuotesFromString](https://github.com/RoryBecker/CR_RemoveQuotesFromString)
- 
- * [CR_XMLNav](https://github.com/RoryBecker/CR_XMLNav)
-    Provides enhanced navigation within XML files.
- * [CR_RenameFileSync](https://github.com/RoryBecker/CR_RenameFileSync)
- * [CR_Fader](https://github.com/RoryBecker/CR_Fader)
-    Reduces the visibility of lines that start with certain prefixes. ie ' TODO
- * [CR_WrapInTryFunction](https://github.com/RoryBecker/CR_WrapInTryFunction)
-    Generates a method that wraps the active method, in the same way that 'TryParse' wraps 'Parse'.
- * [CR_PreventDeleteCollapsedCode](https://github.com/RoryBecker/CR_PreventDeleteCollapsedCode)
- * [CR_TemplateByExample](https://github.com/RoryBecker/CR_TemplateByExample)
+ * [CR_TemplateExpandWithCollapsedRegions](https://github.com/RoryBecker/CR_TemplateExpandWithCollapsedRegions) - Provides a new command to expand a template and then collapsing any regions it might generate.
+ * [CR_ExtractMethodAndInlineLiterals](https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals) - Extracts all literals in the selected code, then extracts the code, before inlining the literals again.
+ * [CR_CleanupFileAndNamespaces](https://github.com/RoryBecker/CR_CleanupFileAndNamespaces) - Executes the CleaupFile action and OptimizeNamespace rafactorings in sequence.
+ * [CR_RemoveQuotesFromString](https://github.com/RoryBecker/CR_RemoveQuotesFromString) - One step command to remove the initial and trailing double quotes from around a string literal.
+ * [CR_XMLNav](https://github.com/RoryBecker/CR_XMLNav) - Provides enhanced navigation within XML files.
+ * [CR_RenameFileSync](https://github.com/RoryBecker/CR_RenameFileSync) - Hooks the CodeRush rename refactoring and renames the corresponding file at the same time.
+ * [CR_Fader](https://github.com/RoryBecker/CR_Fader) - Reduces the visibility of lines that start with certain prefixes. ie ' TODO
+ * [CR_WrapInTryFunction](https://github.com/RoryBecker/CR_WrapInTryFunction) - Generates a method that wraps the active method, in the same way that 'TryParse' wraps 'Parse'.
+ * [CR_PreventDeleteCollapsedCode](https://github.com/RoryBecker/CR_PreventDeleteCollapsedCode) - Attempts to prevent the usefrom deleting code which contains a collapsed comment.
+ * [CR_TemplateByExample](https://github.com/RoryBecker/CR_TemplateByExample) - CodeRush plugin designed to help create simple templates.
  
  
