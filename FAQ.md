@@ -74,7 +74,5 @@ If you have improvements you'd like to see, let me know and we can work together
 
  [Full Contact Details](./Contact.html)
 
-My public GitHub account is [http://GitHub.com/RoryBecker](http://GitHub.com/RoryBecker)
-
 ##### How do I get my plugin listed?
 Contact me and we'll work out the best way of presenting your plugin

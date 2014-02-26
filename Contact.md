@@ -3,10 +3,8 @@ layout: SiteMaster
 ---
 
 #### Who am I?
-My name is Rory Becker. 
-* I started the original [DXCoreCommunity plugin site](https://code.google.com/p/dxcorecommunityplugins/) and I'm the original author of this site.
-* I work for DevExpress.com as a CodeRush Community Evangelist. (CodeRush Obsessive)
-
+My name is Rory Becker. I work for DevExpress as a CodeRush Community Evangelist (CodeRush Obsessive)
+I started the original [DXCoreCommunity plugin site](https://code.google.com/p/dxcorecommunityplugins/) and I'm the original author of this site.
 
 #### Contact Details
 * I'm easiest to find on twitter: [@rorybecker](http://twitter.com/rorybecker)
