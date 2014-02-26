@@ -5,7 +5,8 @@ layout: SiteMaster
 ### F.A.Q
 
 #### What is the purpose of this site?
-This site is here to provide a simple one stop shop for finding plugins.
+This site is here to provide a simple one stop shop for finding CodeRush plugins.
+
 Initially I'll be adding the plugins whose source is stored here on GitHub, but I'll also be happy enough to add references to plugins held elsewhere.
 
 #### Have you abandoned the DXCoreCommunity site?
