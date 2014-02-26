@@ -8,6 +8,3 @@ layout: SiteMaster
 
 ### Contact Me 
  [Full Contact Details](./Contact.html)
-
-### Support or Contact
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and they'll help you sort it out.
