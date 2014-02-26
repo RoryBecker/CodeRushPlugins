@@ -20,9 +20,11 @@ This being the case I decided that I would use Git for all my future plugin proj
 
 #### Why another site?
 There are now 3 different locations where you can get community plugins.
-* The Visual Studio Gallery (Hosted by Microsoft)
-* [The Community Plugin Site](https://code.google.com/p/dxcorecommunityplugins/) (Hosted by Google Code)
-* [My account on GitHub.com](https://github.com/rorybecker/) (Hosted by GitHub - Note: Not all repos on my account are plugins)
+
+* [The Visual Studio Gallery]() (Hosted by [Microsoft](http://visualstudiogallery.msdn.microsoft.com/))
+* [The Community Plugin Site](https://code.google.com/p/dxcorecommunityplugins/) (Hosted by [Google Code]((https://code.google.com/)))
+* [My GitHub.com Account](https://github.com/rorybecker/) (Hosted by [GitHub](https://github.com/))
+
  
 In addition there are some people, who want to share their plugins, but aren't so keen to share ther code. 
 (Often this is because of the monolithic nature of the existing site and the (perceived) awkwardness of interacting with it. 
@@ -36,7 +38,8 @@ Note: I will continue to link to the existing site, which will not be removed un
 Being based in a Git repository, this site can be forked and pull requests made without any special permissions. 
 Therefore if anyone reading this has a plugin they would like to add, easily send a pull request containing those additions.
 
-People could send al sorts of pull requests...
+People could send all sorts of pull requests...
+
 * Please link to this plugin.
 * I think we need a page which lists all plugin of type X
 * Your typing\spelling is aweful... I have fixed this for you. :)
