@@ -3,6 +3,7 @@ layout: SiteMaster
 ---
 ### Recent Plugins
  
+ * [CR_IntroduceLocalAllArguments](https://github.com/RoryBecker/CR_IntroduceLocalAllArguments) - Provides a new command to expand a template and then collapsing any regions it might generate.
  * [CR_TemplateExpandWithCollapsedRegions](https://github.com/RoryBecker/CR_TemplateExpandWithCollapsedRegions) - Provides a new command to expand a template and then collapsing any regions it might generate.
  * [CR_ExtractMethodAndInlineLiterals](https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals) - Extracts all literals in the selected code, then extracts the code, before inlining the literals again.
  * [CR_CleanupFileAndNamespaces](https://github.com/RoryBecker/CR_CleanupFileAndNamespaces) - Executes the CleaupFile action and OptimizeNamespace rafactorings in sequence.
@@ -26,9 +27,9 @@ Plugins based here are still maintained but new plugins are unlikely to be store
 #### Visual Studio Gallery
 Later it was suggested that certain plugins would benefit from being showcased in a more prominent setting. By this time we had developed the facility to create plugins which would install via VSIX. This meant that we could use the Visual Studio Gallery to host VSIX versions of some plugins.
 
-In addition, plugins can be discovered from within Visual studio itself. Tools\Extensions and Updates
-
 Therefore we have some [CodeRush plugins hosted on the Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/site/search?query=CodeRush%20Plugin&f[0].Value=CodeRush%20Plugin&f[0].Type=SearchText&ac=4)
+
+In addition, plugins can be discovered from within Visual studio itself. (Tools\Extensions and Updates)
 
 #### GitHub.com
 Most recently I (Rory) have transitioned to using git for most source control. I find it very flexible and never seems to get in my way. 
