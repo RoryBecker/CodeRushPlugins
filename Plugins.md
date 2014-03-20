@@ -4,7 +4,7 @@ layout: SiteMaster
 ### Recent Plugins
  
  * [CR_TemplateImporter](https://github.com/RoryBecker/CR_TemplateImporter) - Imports CodeRush templates direct from the web.
- * [CR_IntroduceLocalAllArguments](https://github.com/RoryBecker/CR_IntroduceLocalAllArguments) - Provides a new command to expand a template and then collapsing any regions it might generate.
+ * [CR_IntroduceLocalAllArguments](https://github.com/RoryBecker/CR_IntroduceLocalAllArguments) - Provides a new command to execute the 'Introdue Local' refactoring on all arguments to a function call.
  * [CR_TemplateExpandWithCollapsedRegions](https://github.com/RoryBecker/CR_TemplateExpandWithCollapsedRegions) - Provides a new command to expand a template and then collapsing any regions it might generate.
  * [CR_ExtractMethodAndInlineLiterals](https://github.com/RoryBecker/CR_ExtractMethodAndInlineLiterals) - Extracts all literals in the selected code, then extracts the code, before inlining the literals again.
  * [CR_CleanupFileAndNamespaces](https://github.com/RoryBecker/CR_CleanupFileAndNamespaces) - Executes the CleaupFile action and OptimizeNamespace rafactorings in sequence.
