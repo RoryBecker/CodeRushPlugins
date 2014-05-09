@@ -3,8 +3,8 @@ layout: SiteMaster
 ---
 ### Recent Plugins
  
- * CR_UseExtensionMethod [VSGallery](http://visualstudiogallery.msdn.microsoft.com/c87f600e-f6af-4a13-9eac-71f5082a2355?SRC=Home)[GitHub](https://github.com/RoryBecker/CR_UseExtensionMethod) - Provides new Refactoring\CodeProvider to rewrite a call to an method as an extension method.
- * CR_ConvertStringToAppSetting [VSGallery](http://visualstudiogallery.msdn.microsoft.com/b897d8f8-8feb-4e15-8e8c-00c02c77478b?SRC=Home) [GitHub](https://github.com/RoryBecker/CR_ConvertStringToAppSetting) - Provides new Refactoring to convert a string to a setrting held in an app.config file.
+ * CR_UseExtensionMethod [VSGallery](http://visualstudiogallery.msdn.microsoft.com/c87f600e-f6af-4a13-9eac-71f5082a2355?SRC=Home) \ [GitHub](https://github.com/RoryBecker/CR_UseExtensionMethod) - Provides new Refactoring\CodeProvider to rewrite a call to an method as an extension method.
+ * CR_ConvertStringToAppSetting [VSGallery](http://visualstudiogallery.msdn.microsoft.com/b897d8f8-8feb-4e15-8e8c-00c02c77478b?SRC=Home) \ [GitHub](https://github.com/RoryBecker/CR_ConvertStringToAppSetting) - Provides new Refactoring to convert a string to a setrting held in an app.config file.
  * [CR_AddDataContract](https://github.com/RoryBecker/CR_AddDataContract) - Provides new CodeProvider to add [DataContract] and [DataMember] attributes to a class.
  * [CR_TemplateImporter](https://github.com/RoryBecker/CR_TemplateImporter) - Imports CodeRush templates direct from the web.
  * [CR_IntroduceLocalAllArguments](https://github.com/RoryBecker/CR_IntroduceLocalAllArguments) - Provides a new command to execute the 'Introduce Local' refactoring on all arguments to a function call.
