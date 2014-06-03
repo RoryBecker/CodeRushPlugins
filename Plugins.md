@@ -3,7 +3,7 @@ layout: SiteMaster
 ---
 ### Recent Plugins
  
- * CR_DeclareExtensionMethod [GitHub - Prerelease] (https://github.com/RoryBecker/CR_DeclareExtensionMethod/releases/) - Provides a CodeProvider which enables the creation of Extension methods from example calling code.
+ * CR_DeclareExtensionMethod [VSGallery](http://visualstudiogallery.msdn.microsoft.com/103cc242-0d3e-4af5-af69-aa8efca2f12a) \ [GitHub] (https://github.com/RoryBecker/CR_DeclareExtensionMethod/releases/) - Provides a CodeProvider which enables the creation of Extension methods from example calling code.
  * CR_UseExtensionMethod [VSGallery](http://visualstudiogallery.msdn.microsoft.com/c87f600e-f6af-4a13-9eac-71f5082a2355?SRC=Home) \ [GitHub](https://github.com/RoryBecker/CR_UseExtensionMethod) - Provides new Refactoring\CodeProvider to rewrite a call to an method as an extension method.
  * CR_ConvertStringToAppSetting [VSGallery](http://visualstudiogallery.msdn.microsoft.com/b897d8f8-8feb-4e15-8e8c-00c02c77478b?SRC=Home) \ [GitHub](https://github.com/RoryBecker/CR_ConvertStringToAppSetting) - Provides new Refactoring to convert a string to a setrting held in an app.config file.
  * CR_AddDataContract [VSGallery](http://visualstudiogallery.msdn.microsoft.com/304e19c9-a127-4f9f-9369-5956b04a4a23) \ [GitHub](https://github.com/RoryBecker/CR_AddDataContract) - Provides new CodeProvider to add [DataContract] and [DataMember] attributes to a class.
