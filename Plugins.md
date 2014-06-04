@@ -23,13 +23,10 @@ layout: SiteMaster
 
 ### Older Plugins 
  
- * [CR_AttributeTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/)(https://code.google.com/p/dxcorecommunityplugins/wiki/) 
+ * [CR_AttributeTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_AttributeTabber)
  * [CR_CautiousChange](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CautiousChange)
  * [CR_ClearAllMarkers](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ClearAllMarkers)
- * [CR_CreateContract](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CreateContract)
  * [CR_CreateDelegate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CreateDelegate)
- * [CR_CreateHeader](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CreateHeader)
- * [CR_DeclareClassInProject](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_DeclareClassInProject)
  * [CR_DeclareParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_DeclareParameter)
  * [CR_ImplementBaseConstructors](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ImplementBaseConstructors)
  * [CR_Initials](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Initials)
@@ -38,7 +35,6 @@ layout: SiteMaster
  * [CR_JumpToImplementation](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToImplementation)
  * [CR_JumpToNamedMVCView](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToNamedMVCView)
  * [CR_JumpToType](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToType)
- * [CR_LocalVars](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_LocalVars)
  * [CR_MarkerCloseOnCollect](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MarkerCloseOnCollect)
  * [CR_MenuPlus](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MenuPlus)
  * [CR_NavigateToDefinition](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_NavigateToDefinition)
@@ -47,7 +43,6 @@ layout: SiteMaster
  * [CR_RegionTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RegionTabber)
  * [CR_RemoveRegions](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RemoveRegions)
  * [CR_StyleNinja](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_StyleNinja)
- * [CR_TabToNextXMLReference](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_TabToNextXMLReference)
  * [CR_ToDoTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ToDoTabber)
  * [DX_ConvertRegionToPartialClass](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertRegionToPartialClass)
  * [DX_ConvertToTryParse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertToTryParse)
@@ -56,7 +51,6 @@ layout: SiteMaster
  * [DX_GenerateProxy](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GenerateProxy)
  * [DX_GuidGen](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GuidGen)
  * [DX_InterfaceNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_InterfaceNav)
- * [DX_StudioSizer](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_StudioSizer)
  * [DX_TabNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_TabNav)
 
  
