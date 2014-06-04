@@ -23,36 +23,42 @@ layout: SiteMaster
 
 ### Older Plugins 
  
- * [CR_AttributeTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_AttributeTabber)
- * [CR_CautiousChange](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CautiousChange)
- * [CR_ClearAllMarkers](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ClearAllMarkers)
- * [CR_CreateDelegate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CreateDelegate)
- * [CR_DeclareParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_DeclareParameter)
- * [CR_ImplementBaseConstructors](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ImplementBaseConstructors)
- * [CR_Initials](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Initials)
- * [CR_InsertNewParentClass](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_InsertNewParentClass)
- * [CR_JoinLines](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JoinLines)
- * [CR_JumpToImplementation](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToImplementation)
- * [CR_JumpToNamedMVCView](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToNamedMVCView)
- * [CR_JumpToType](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToType)
- * [CR_MarkerCloseOnCollect](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MarkerCloseOnCollect)
- * [CR_MenuPlus](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MenuPlus)
- * [CR_NavigateToDefinition](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_NavigateToDefinition)
- * [CR_PromoteExpressionToParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_PromoteExpressionToParameter)
- * [CR_RefreshTemplate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RefreshTemplate)
- * [CR_RegionTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RegionTabber)
- * [CR_RemoveRegions](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RemoveRegions)
- * [CR_StyleNinja](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_StyleNinja)
- * [CR_ToDoTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ToDoTabber)
- * [DX_ConvertRegionToPartialClass](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertRegionToPartialClass)
- * [DX_ConvertToTryParse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertToTryParse)
- * [DX_CustomCollapse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_CustomCollapse)
- * [DX_DirectOptions](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_DirectOptions)
- * [DX_GenerateProxy](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GenerateProxy)
- * [DX_GuidGen](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GuidGen)
- * [DX_InterfaceNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_InterfaceNav)
- * [DX_TabNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_TabNav)
-
+ * Navigation
+ 	* [CR_AttributeTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_AttributeTabber)
+ 	* [CR_ClearAllMarkers](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ClearAllMarkers)
+	* [CR_JumpToImplementation](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToImplementation)
+ 	* [CR_JumpToNamedMVCView](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToNamedMVCView)
+ 	* [CR_JumpToType](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToType)
+ 	* [CR_MarkerCloseOnCollect](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MarkerCloseOnCollect)
+ 	* [CR_NavigateToDefinition](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_NavigateToDefinition)
+ 	* [CR_RegionTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RegionTabber)
+ 	* [CR_ToDoTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ToDoTabber)
+ 	* [DX_InterfaceNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_InterfaceNav)
+ 	* [DX_TabNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_TabNav)
+ * Editing
+ 	* [CR_CautiousChange](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CautiousChange)
+ * Refactoring
+ 	* [CR_PromoteExpressionToParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_PromoteExpressionToParameter)
+ * Cleanup
+ 	* [CR_RemoveRegions](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RemoveRegions)
+ * Generation
+	* [CR_DeclareParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_DeclareParameter)
+	* [CR_CreateDelegate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CreateDelegate)
+ 	* [CR_ImplementBaseConstructors](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ImplementBaseConstructors)
+ 	* [CR_InsertNewParentClass](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_InsertNewParentClass)
+ 	* [DX_ConvertRegionToPartialClass](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertRegionToPartialClass)
+ 	* [DX_ConvertToTryParse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertToTryParse)
+	* [DX_GenerateProxy](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GenerateProxy)
+ 	* [DX_GuidGen](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GuidGen)
+ * Other
+ 	* [CR_Initials](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Initials)
+ 	* [CR_JoinLines](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JoinLines)
+ 	* [CR_MenuPlus](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MenuPlus)
+ 	* [CR_RefreshTemplate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RefreshTemplate)
+ 	* [CR_StyleNinja](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_StyleNinja)
+ 	* [DX_CustomCollapse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_CustomCollapse)
+ 	* [DX_DirectOptions](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_DirectOptions)
+ 
  
 ### Where else can I find more CodeRush plugins?
 CodeRush plugins can be found all over the place, but they tend to congregate in 3 locations in particular.
