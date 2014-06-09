@@ -22,8 +22,8 @@ layout: SiteMaster
  * [CR_TemplateByExample](https://github.com/RoryBecker/CR_TemplateByExample) - CodeRush plugin designed to help create simple templates.
 
 ### Older Plugins 
-    The following older plugins are not currently available in VSIX format. 
-    Please [See here for how to install these older plugins] (./InstallOlderPlugins.html)
+The following older plugins are not currently available in VSIX format. 
+Please [See here for how to install these older plugins] (./InstallOlderPlugins.html)
  
  * Generation
 	* [CR_DeclareParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_DeclareParameter)
