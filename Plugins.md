@@ -23,6 +23,16 @@ layout: SiteMaster
 
 ### Older Plugins 
  
+ * Generation
+	* [CR_DeclareParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_DeclareParameter)
+	* [CR_CreateDelegate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CreateDelegate)
+ 	* [CR_ImplementBaseConstructors](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ImplementBaseConstructors)
+ 	* [CR_InsertNewParentClass](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_InsertNewParentClass)
+ 	* [DX_ConvertRegionToPartialClass](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertRegionToPartialClass)
+ 	* [DX_ConvertToTryParse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertToTryParse)
+	* [DX_GenerateProxy](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GenerateProxy)
+ 	* [DX_GuidGen](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GuidGen)
+ 	* [CR_Initials](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Initials)
  * Navigation
  	* [CR_AttributeTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_AttributeTabber)
  	* [CR_ClearAllMarkers](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ClearAllMarkers)
@@ -41,24 +51,15 @@ layout: SiteMaster
  	* [CR_PromoteExpressionToParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_PromoteExpressionToParameter)
  * Cleanup
  	* [CR_RemoveRegions](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RemoveRegions)
- * Generation
-	* [CR_DeclareParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_DeclareParameter)
-	* [CR_CreateDelegate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CreateDelegate)
- 	* [CR_ImplementBaseConstructors](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ImplementBaseConstructors)
- 	* [CR_InsertNewParentClass](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_InsertNewParentClass)
- 	* [DX_ConvertRegionToPartialClass](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertRegionToPartialClass)
- 	* [DX_ConvertToTryParse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertToTryParse)
-	* [DX_GenerateProxy](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GenerateProxy)
- 	* [DX_GuidGen](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GuidGen)
- * Other
- 	* [CR_Initials](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Initials)
- 	* [CR_JoinLines](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JoinLines)
- 	* [CR_MenuPlus](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MenuPlus)
- 	* [CR_RefreshTemplate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RefreshTemplate)
+ * Analysis
  	* [CR_StyleNinja](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_StyleNinja)
- 	* [DX_CustomCollapse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_CustomCollapse)
+ * Menus
+   	* [CR_MenuPlus](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MenuPlus)
  	* [DX_DirectOptions](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_DirectOptions)
- 
+ * Other
+ 	* [CR_JoinLines](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JoinLines)
+ 	* [CR_RefreshTemplate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RefreshTemplate)
+ 	* [DX_CustomCollapse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_CustomCollapse)
  
 ### Where else can I find more CodeRush plugins?
 CodeRush plugins can be found all over the place, but they tend to congregate in 3 locations in particular.
