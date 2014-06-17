@@ -3,6 +3,7 @@ layout: SiteMaster
 ---
 ### Recent Plugins
  
+ * CR_ExtensionMethodsHelper - [GitHub] (https://github.com/RoryBecker/CR_ExtensionMethodsHelper/) - Adds a CodeProvider which adds missing namespace references for extension methods.
  * CR_MiscStringProviders - [GitHub] (https://github.com/RoryBecker/CR_MiscStringProviders/) - Provides a few additional useful StringPrvoders.
  * CR_DeclareExtensionMethod [VSGallery](http://visualstudiogallery.msdn.microsoft.com/103cc242-0d3e-4af5-af69-aa8efca2f12a) \ [GitHub] (https://github.com/RoryBecker/CR_DeclareExtensionMethod) - Provides a CodeProvider which enables the creation of Extension methods from example calling code.
  * CR_UseExtensionMethod [VSGallery](http://visualstudiogallery.msdn.microsoft.com/c87f600e-f6af-4a13-9eac-71f5082a2355?SRC=Home) \ [GitHub](https://github.com/RoryBecker/CR_UseExtensionMethod) - Provides new Refactoring\CodeProvider to rewrite a call to an method as an extension method.
