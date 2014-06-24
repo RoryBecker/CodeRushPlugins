@@ -3,6 +3,8 @@ layout: SiteMaster
 ---
 ### Recent Plugins
  
+ * CR_ReverseArgs - [GitHub](https://github.com/RoryBecker/CR_ReverseArgs/) - Allows the user to reverse the order of a pair of method arguments.
+ * CR_SetPluginVersion - [GitHub](https://github.com/RoryBecker/CR_SetPluginVersion) - Allows a plugin developer to simultaneously set the AssemblyFileVersion and AssemblyVersion attributes aswell as the Version element in their plugin's VSIX.
  * CR_ExtensionMethodsHelper - [GitHub] (https://github.com/RoryBecker/CR_ExtensionMethodsHelper/) - Adds a CodeProvider which adds missing namespace references for extension methods.
  * CR_MiscStringProviders - [GitHub] (https://github.com/RoryBecker/CR_MiscStringProviders/) - Provides a few additional useful StringPrvoders.
  * CR_DeclareExtensionMethod [VSGallery](http://visualstudiogallery.msdn.microsoft.com/103cc242-0d3e-4af5-af69-aa8efca2f12a) \ [GitHub] (https://github.com/RoryBecker/CR_DeclareExtensionMethod) - Provides a CodeProvider which enables the creation of Extension methods from example calling code.
