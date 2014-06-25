@@ -2,7 +2,7 @@
 layout: SiteMaster
 ---
 ### Recent Plugins
- 
+ * CR_RemoveStringToken - [GitHub](https://github.com/RoryBecker/CR_RemoveStringToken) - Allows the user to remove a string token from a string, along with it's associated argument.
  * CR_ReverseOperands - [GitHub](https://github.com/RoryBecker/CR_ReverseOperands/) - Allows the user to reverse the order of 2 operands.
  * CR_ReverseArgs - [GitHub](https://github.com/RoryBecker/CR_ReverseArgs/) - Allows the user to reverse the order of a pair of method arguments.
  * CR_SetPluginVersion - [GitHub](https://github.com/RoryBecker/CR_SetPluginVersion) - Allows a plugin developer to simultaneously set the AssemblyFileVersion and AssemblyVersion attributes aswell as the Version element in their plugin's VSIX.
