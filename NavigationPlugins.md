@@ -6,7 +6,8 @@ layout: SiteMaster
 
 #### Tab to Next Reference Extensions
 
-{% markdown TTNRPlugins.md %}
+{% capture TTNRPlugins %}{% include TTNRPlugins.md %}{% endcapture %}
+{{ TTNRPlugins | markdownify }}
    
 #### Marker Plugins
  * [CR_ClearAllMarkers](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ClearAllMarkers) - Clears All Markers
