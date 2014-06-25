@@ -5,11 +5,9 @@ layout: SiteMaster
 ### Navigation Plugins
 
 #### Tab to Next Reference Extensions
- * [CR_AttributeTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_AttributeTabber) - Allows the user to Tab between html attributes and their values.
- * [CR_RegionTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RegionTabber) - Allows a user to Tab between the 'Region' and 'end Region' directives.
- * [CR_ToDoTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ToDoTabber) - Allows the user to Tab between '// TODO:' style comments.
- * [DX_TabNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_TabNav) - Allows the user to Tab between various Class..End Class, Sub..end Sub, .Function..End Function pairs.
-    
+
+{% markdown TTNRPlugins.md %}
+   
 #### Marker Plugins
  * [CR_ClearAllMarkers](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ClearAllMarkers) - Clears All Markers
  * [CR_MarkerCloseOnCollect](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MarkerCloseOnCollect) - Closes the active file when jumping to another Marker.
