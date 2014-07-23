@@ -2,6 +2,7 @@
 layout: SiteMaster
 ---
 ### Recent Plugins
+ * CR_ReferencesMetric - [GitHub](https://github.com/RoryBecker/CR_ReferencesMetric) - Adds a new CodeRush Metric which counts references to the member being evaluated.
  * CR_CorrectReturnType - [GitHub](https://github.com/RoryBecker/CR_CorrectReturnType) - Allows the user to correct the retuyrn type of a function based on the type of a returned expression.
  * CR_RemoveStringToken - [GitHub](https://github.com/RoryBecker/CR_RemoveStringToken) - Allows the user to remove a string token from a string, along with it's associated argument.
  * CR_ReverseOperands - [GitHub](https://github.com/RoryBecker/CR_ReverseOperands/) - Allows the user to reverse the order of 2 operands.
