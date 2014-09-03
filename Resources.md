@@ -41,13 +41,20 @@ layout: SiteMaster
   * [Multi Select Part 1](https://www.youtube.com/watch?v=MaHb40wyRAs)
   * [Multi Select Part 2](https://www.youtube.com/watch?v=ShmEFJM8hN0)
   * [Remove Outer Block](https://www.youtube.com/watch?v=exJXrK1x1yw)
-  * [Namespace Folder Sync Part 1](https://www.youtube.com/watch?v=gCwegrbWk6s)
-  * [Namespace Folder Sync Part 2](https://www.youtube.com/watch?v=sNR8RYL4EyQ)
-  * [Improving String.Format Part 1](https://www.youtube.com/watch?v=iIiytvG2zu8)
-  * [Improving String.Format Part 2](https://www.youtube.com/watch?v=MOwvcoCglFQ)
+  * Namespace Folder Sync 
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=gCwegrbWk6s)
+	  * [Webinar - Part 2](https://www.youtube.com/watch?v=sNR8RYL4EyQ)
+  * Improving String.Format 
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=iIiytvG2zu8)
+	  * [Webinar - Part 2](https://www.youtube.com/watch?v=MOwvcoCglFQ)
+	  * [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_StringFormatter)
   * [Super Sibling Navigation](https://www.youtube.com/watch?v=OgcsZdyo4zI)
-  * [IDisposable Part 1](https://www.youtube.com/watch?v=nwI3v_FSaRA)
-  * [IDisposable Part 2](https://www.youtube.com/watch?v=gkR2HGrpO2k)
-  * [Favorite Views Part 1](https://www.youtube.com/watch?v=sXD5Rb30sTY)
-  * [Favorite Views Part 2](https://www.youtube.com/watch?v=-HhBi6yaI64)
+  * IDisposable 
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=nwI3v_FSaRA)
+	  * [Webinar - Part 2](https://www.youtube.com/watch?v=gkR2HGrpO2k)
+	  * [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Disposomatic)
+  * Favorite Views 
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=sXD5Rb30sTY)
+	  * [Webinar - Part 2](https://www.youtube.com/watch?v=-HhBi6yaI64)
+	  * [The Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_FavoriteViews/)
   * [Quick Pair](https://www.youtube.com/watch?v=hxRZMgOF_qc)
