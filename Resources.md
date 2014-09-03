@@ -51,4 +51,3 @@ layout: SiteMaster
   * [Favorite Views Part 1](https://www.youtube.com/watch?v=sXD5Rb30sTY)
   * [Favorite Views Part 2](https://www.youtube.com/watch?v=-HhBi6yaI64)
   * [Quick Pair](https://www.youtube.com/watch?v=hxRZMgOF_qc)
-****
