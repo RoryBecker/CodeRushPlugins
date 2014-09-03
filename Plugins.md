@@ -3,6 +3,7 @@ layout: SiteMaster
 ---
 ### Recent Plugins
   
+ * CR_SortFormatTokens - [GitHub](https://github.com/RoryBecker/CR_SortFormatTokens) - CodeProvider to sort and renumber the string tokens and the associated arguments of a string.format call.
  * CR_ContextualReplace - [GitHub](https://github.com/RoryBecker/CR_ContextualReplace) - Configurable Inline Contextual Replace via the CodeProvider menu.
  * CR_CollapseXML - [GitHub](https://github.com/RoryBecker/CR_CollapseXML) - Provides a command to collapse XML (or HTML) elements with an 'id' or 'name' attribute.
  * CR_ReferencesMetric - [GitHub](https://github.com/RoryBecker/CR_ReferencesMetric) - Adds a new CodeRush Metric which counts references to the member being evaluated.
