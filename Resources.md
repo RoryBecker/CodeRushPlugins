@@ -40,40 +40,20 @@ layout: SiteMaster
   * Go To Type
 	  * [Webinar](https://www.youtube.com/watch?v=lVVeBsi_5pQ)
   * Change Properties of References
-	  * [Webinar](https://www.youtube.com/watch?v=CyCA5kwvxi0)
-	  * [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ProjectReferenceDefaults)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_ProjectReferenceDefaults)
+	  * [Webinar](https://www.youtube.com/watch?v=CyCA5kwvxi0), [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ProjectReferenceDefaults), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_ProjectReferenceDefaults)
   * Multi Select 
-	  * [Webinar - Part 1](https://www.youtube.com/watch?v=MaHb40wyRAs)
-	  * [Webinar - Part 2](https://www.youtube.com/watch?v=ShmEFJM8hN0)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_MultiSelect/)
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=MaHb40wyRAs), [Webinar - Part 2](https://www.youtube.com/watch?v=ShmEFJM8hN0), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_MultiSelect/)
   * Remove Outer Block
-	  * [Webinar](https://www.youtube.com/watch?v=exJXrK1x1yw)
-	  * [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RemoveOuterBlock)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_RemoveOuterBlock)
+	  * [Webinar](https://www.youtube.com/watch?v=exJXrK1x1yw), [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RemoveOuterBlock), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_RemoveOuterBlock)
   * Namespace Folder Sync 
-	  * [Webinar - Part 1](https://www.youtube.com/watch?v=gCwegrbWk6s)
-	  * [Webinar - Part 2](https://www.youtube.com/watch?v=sNR8RYL4EyQ)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_SyncNamespacesToFolder)
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=gCwegrbWk6s), [Webinar - Part 2](https://www.youtube.com/watch?v=sNR8RYL4EyQ), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_SyncNamespacesToFolder)
   * Improving String.Format 
-	  * [Webinar - Part 1](https://www.youtube.com/watch?v=iIiytvG2zu8)
-	  * [Webinar - Part 2](https://www.youtube.com/watch?v=MOwvcoCglFQ)
-	  * [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_StringFormatter)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_StringFormatter)
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=iIiytvG2zu8), [Webinar - Part 2](https://www.youtube.com/watch?v=MOwvcoCglFQ), [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_StringFormatter), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_StringFormatter)
   * Super Sibling Navigation
-	  * [Webinar](https://www.youtube.com/watch?v=OgcsZdyo4zI)
-	  * [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_SuperSiblingNav)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_SuperSiblingNav)
+	  * [Webinar](https://www.youtube.com/watch?v=OgcsZdyo4zI), [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_SuperSiblingNav), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_SuperSiblingNav)
   * IDisposable 
-	  * [Webinar - Part 1](https://www.youtube.com/watch?v=nwI3v_FSaRA)
-	  * [Webinar - Part 2](https://www.youtube.com/watch?v=gkR2HGrpO2k)
-	  * [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Disposomatic)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_Dispos-o-matic)
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=nwI3v_FSaRA), [Webinar - Part 2](https://www.youtube.com/watch?v=gkR2HGrpO2k), [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Disposomatic), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_Dispos-o-matic)
   * Favorite Views 
-	  * [Webinar - Part 1](https://www.youtube.com/watch?v=sXD5Rb30sTY)
-	  * [Webinar - Part 2](https://www.youtube.com/watch?v=-HhBi6yaI64)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_FavoriteViews/)
+	  * [Webinar - Part 1](https://www.youtube.com/watch?v=sXD5Rb30sTY), [Webinar - Part 2](https://www.youtube.com/watch?v=-HhBi6yaI64), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_FavoriteViews/)
   * Quick Pair
-	  * [Webinar](https://www.youtube.com/watch?v=hxRZMgOF_qc)
-	  * [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_QuickPair)
-	  * [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_QuickPair)
+	  * [Webinar](https://www.youtube.com/watch?v=hxRZMgOF_qc), [Wiki Page](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_QuickPair), [Code](https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_QuickPair)
