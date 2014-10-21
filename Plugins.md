@@ -6,7 +6,7 @@ layout: SiteMaster
  * CR_SplitTag - [GitHub](https://github.com/RoryBecker/CR_SplitTag) - CodeProvider to split a HTML or XMl tag into 2 pieces at the caret.
  * CR_SortFormatTokens - [VSGallery](http://visualstudiogallery.msdn.microsoft.com/9f1adca2-0391-483d-aca4-a7ed9f9474ef) \ [GitHub](https://github.com/RoryBecker/CR_SortFormatTokens) - CodeProvider to sort and renumber the string tokens and the associated arguments of a string.format call.
  * CR_ContextualReplace - [GitHub](https://github.com/RoryBecker/CR_ContextualReplace) - Configurable Inline Contextual Replace via the CodeProvider menu.
- * CR_CollapseXML - [VSGallery]()[GitHub](https://github.com/RoryBecker/CR_CollapseXML) - Provides a command to collapse XML (or HTML) elements with an 'id' or 'name' attribute.
+ * CR_CollapseXML - [VSGallery](https://visualstudiogallery.msdn.microsoft.com/09def305-a337-405f-b26c-202b5375ac28) \ [GitHub](https://github.com/RoryBecker/CR_CollapseXML) - Provides a command to collapse XML (or HTML) elements with an 'id' or 'name' attribute.
  * CR_ReferencesMetric - [GitHub](https://github.com/RoryBecker/CR_ReferencesMetric) - Adds a new CodeRush Metric which counts references to the member being evaluated.
  * CR_CorrectReturnType - [GitHub](https://github.com/RoryBecker/CR_CorrectReturnType) - Allows the user to correct the retuyrn type of a function based on the type of a returned expression.
  * CR_RemoveStringToken - [GitHub](https://github.com/RoryBecker/CR_RemoveStringToken) - Allows the user to remove a string token from a string, along with it's associated argument.
