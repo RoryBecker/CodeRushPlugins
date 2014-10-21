@@ -6,11 +6,7 @@ This site is here to provide a simple one stop shop for finding plugins for [**C
 
 Initially I'll be adding the plugins whose source is stored here on github, but I'll also be happy enough to add references to plugins held elsewhere.
 
-<a href="RefactoringPlugins.html" class="btn btn-primary">Refactoring Plugins</a>
-
-<a href="CodeProviderPlugins.html"><div class="btn btn-primary">CodeProvider Plugins</div></a>
-
-<a href="NavigationPlugins.html"><div class="btn btn-primary">Navigation Plugins</div></a>
+<a href="RefactoringPlugins.html" class="btn btn-primary">Refactoring Plugins</a> <a href="CodeProviderPlugins.html" class="btn btn-primary">CodeProvider Plugins</a> <a href="NavigationPlugins.html" class="btn btn-primary">Navigation Plugins</a>
 
 Are you **new here**? Then perhaps you'd like to check out [**Our FAQ**](./FAQ.html). 
 
