@@ -2,7 +2,56 @@
 layout: SiteMaster
 ---
 ### Recent Plugins
-  
+ * CR_RemoveOuterBlock - [GitHub](https://github.com/RoryBecker/CR_RemoveOuterBlock) - Replaces a block of code with it's contents.
+ * CR_RefreshTemplate - [GitHub](https://github.com/RoryBecker/CR_RefreshTemplate) - Allows the creation of templates which can be refreshed. 
+ * CR_MultiSelect - [GitHub](https://github.com/RoryBecker/CR_MultiSelect) - (Obsolete) - Feature Workshop - Allows you to define and use multiple selections at once.
+ * CR_QuickAddReference - [GitHub](https://github.com/RoryBecker/CR_QuickAddReference) - (Obsolete) Provides an alternative means to add references to your projects.
+ * CR_MetricShader - [GitHub](https://github.com/RoryBecker/CR_MetricShader) - Provides an alternative visualization of Coderush Metrics.
+ * CR_MethodPreview - [GitHub](https://github.com/RoryBecker/CR_MethodPreview) - Provides a preview of a method from one of it's calls.
+ * CR_Loop - [GitHub](https://github.com/RoryBecker/CR_Loop) - Provides a TextCommand which expands a template multiple times.
+ * CR_CreateDelegate - [GitHub](https://github.com/RoryBecker/CR_CreateDelegate) - Generates Delegates from Methods.
+ * CR_CreateHeader - [GitHub](https://github.com/RoryBecker/CR_CreateHeader) - Generates a header for the current class or file.
+ * CR_UnderscoreIdentifier - [GitHub](https://github.com/RoryBecker/CR_UnderscoreIdentifier) - Feature Workshop - Renames an identifier so that upper case characters are preceeded by underscores.
+ * CR_MarkersToolWindow - [GitHub](https://github.com/RoryBecker/CR_MarkersToolWindow) - Feature Workshop - Provides an additional tool window which shows the current stack of Markers within the system.
+ * CR_UpperCaseMenuControl - [GitHub](https://github.com/RoryBecker/CR_UpperCaseMenuControl) - Feature Workshop - Provides an options screen which allows a user to change the UPPER CASE natture of the VS menu items.
+ * CR_TranslationToolWindow - [GitHub](https://github.com/RoryBecker/CR_TranslationToolWindow) - Feature Workshop - Provides a ToolWindow to translate the active member (or file) to another language.
+ * CR_SyncNamespacesToFolder - [GitHub](https://github.com/RoryBecker/CR_SyncNamespacesToFolder) - Feature Workshop - Alters the namespaces of all classes in a project so that they reflect the folders they are within.
+ * CR_SuperSiblingNav - [GitHub](https://github.com/RoryBecker/CR_SuperSiblingNav) - Provides Navigation providers which allow you to skip between sibling methods and properties whilst retaining relative selection and/or caret position
+ * CR_StringFormatter - [GitHub](https://github.com/RoryBecker/CR_StringFormatter) - (Obsolete) Provides a 'Tab to Next Reference' extension, a CodeIssue and a Builder Dialog. designed to assist in the formatting of strings.
+ * CR_ImportNamespace - [GitHub](https://github.com/RoryBecker/CR_ImportNamespaces) - Feature Workshop - Provides additional mechanisms for the adding of references to your project.
+ * CR_ReverseBoolean - [GitHub](https://github.com/RoryBecker/CR_ReverseBoolean) - Reverses the logical meaning of a boolean variable without changing program behavior.
+ * CR_QuickPair - [GitHub](https://github.com/RoryBecker/CR_QuickPair) - Designed to make it easy to enter paired delimiters such as quotes, parens, brackets and braces.
+ * CR_PrimitiveTab - [GitHub](https://github.com/RoryBecker/CR_PrimitiveTab) - Feature Workshop - Extends CodeRush's Tab to Next Reference feature to work with primitives like strings and integers.
+ * CR_OptionsInverter - [GitHub](https://github.com/RoryBecker/CR_OptionsInverter) - Feature Workshop - Providers refactorings to help plugin designers create options pages.
+ * CR_ProjectReferenceDefaults - [GitHub](https://github.com/RoryBecker/CR_ProjectReferenceDefaults) - Feature Workshop - Allows the developer to configure some of the properties of new references.
+ * CR_ObjectInitializerToConstructor - [GitHub](https://github.com/RoryBecker/CR_ObjectInitializerToConstructor) - Feature Workshop - Provides a refactoring\CodeProvider for converting Object initialiser calls into constructor calls.
+ * CR_FavoriteViews - Feature Workshop - [GitHub](https://github.com/RoryBecker/CR_FavoriteViews) - A plugin to remember your open files and positions within them as saved workspaces.
+ * CR_EnforceNamingConventions - [GitHub](EnforceNamingConventions) - An example of how to apply a naming convention across your solution.
+ * CR_ElementTagTabber - [GitHub](https://github.com/RoryBecker/CR_El;ementTagTabber) - Extends the existing 'Tab to Next Reference' functionality to navigate between an open and close pair of tags.
+ * CR_Disposomatic - [GitHub](https://github.com/RoryBecker/CR_Disposomatic) - Feature Workshop - Provides IDisposable related CodeProviders and CodeIssues
+ * CR_EasierIdentifiers - [GitHub](EasierIdentifiers) - Feature Workshop - Plugin to convert spaces into shift keys during the creation of identifiers.
+ * CR_MenuPlus - [GitHub](https://github.com/RoryBecker/CR_MenuPlus) - Provides an additional alternative Main menu is VS containing quick access to multiple coderush features and quick links.
+ * CR_GUIDGen - [GitHub](https://github.com/RoryBecker/CR_GUIDGen) - Adds a StringProvider for generating GUIDs. Usefule for within Templates etc.
+ * CR_ClearAllMarkers - [GitHub](https://github.com/RoryBecker/CR_ClearAllMArkers) - Adds a new Command for clearing all CodeRush Markers
+ * CR_JumpToType - [GitHub](https://github.com/RoryBecker/CR_JumpToType) - Allows the user to jump from a variable reference, to the variable's type's declaration.
+ * CR_JumpToNamedMVCView - [GitHub](https://github.com/RoryBecker/CR_JumpToNamedMVCView) - (Obsolete) Provides a new NavigationProider to help you navigate to a razor view from a controller that calls it by name.
+ * CR_JumpToImplementation - [GitHub](https://github.com/RoryBecker/CR_JumpToImplementation) - (Obsolete) Designed to jump to the first implementation of a method in an interface.
+ * CR_MarkerCloseOnCollect - [GitHub](https://github.com/RoryBecker/CR_CloseOnCollect) - Closes files when collecting the 'last' CodeRush Marker within them.
+ * CR_CautiousChange - [GitHub](https://github.com/RoryBecker/CR_CautiousChange) - Adds a Command to place a copy of highlighted code within a comment prior to editing it.
+ * CR_DeclareParameter - [GitHub](https://github.com/RoryBecker/CR_DeclareParameter) - A new Refactoring which mimics using "Declare Local" followed by "Promote to Parameter".
+ * CR_PromoteExpressionToParameter - [GitHub](https://github.com/RoryBecker/CR_PromoteExpressionToParameter) - A new Refactoring which mimics using "Introduce Local" followed by "Promote to Parameter".
+ * CR_ConvertRegionToPartialClass - [GitHub](https://github.com/RoryBecker/CR_ConvertREgionToPartialClass) - Converts a region into a partial class.
+ * CR_ConvertToTryParse - [GitHub](https://github.com/RoryBecker/CR_ConvertToTryParse) - Replaces the use of Int.Parse with Int.TryParse
+ * CR_InterfaceNav - [GitHub](https://github.com/RoryBecker/CR_InterfaceNav) - Provides a number of implementations of 'To Implementor' within the CodeRush 'Jump To' SmartTag menu.
+ * CR_GenerateProxy - [GitHub](https://github.com/RoryBecker/CR_GenerateProxy) - Generates a Proxy class A, of Source class B, without altering B.
+ * CR_ImplementBaseConstructors - [GitHub](https://github.com/RoryBecker/CR_ImplementBaseConstructors) - (Obsolete) Generates constructors in the current class for each constructor in the base class.
+ * CR_TodoTabber - [GitHub](https://github.com/RoryBecker/CR_TodoTabber) - Extends the Tab-to-Next-Reference feature of CodeRush so that one may Tab through all comments which match a given pattern.
+ * CR_RemoveRegions - [GitHub](https://github.com/RoryBecker/CR_RemoveRegions) - Provides a refactoring to remove all region directives in a file.
+ * CR_RegionTabber - [GitHub](https://github.com/RoryBecker/CR_RegionTabber) - Extends the 'Tab-To-Next-Reference' feature of CodeRush to allow Tabbbing between matching #Region and #End region directives.
+ * CR_AttributeTabber - [GitHub](https://github.com/RoryBecker/CR_AttributeTabber) - Extends the 'Tab-To-Next-Reference' feature of CodeRush to allow navigation between the attributes of a HTML or XML tag (including their values)
+ * CR_InsertNewParentClass - [GitHub](https://github.com/RoryBecker/CR_InsertParentClass) - Creates a new class in the inheritance chain of A -> C, such that A -> B -> C.
+ * CR_XMLNav - [GitHub](https://github.com/RoryBecker/CR_XMLNav) - Extends the 'Tab to Next Reference' feature, by allowing you to tab between 'id' and 'ref' XML attributes that share the same value.
+ * CR_StyleNinja - [GitHub](https://github.com/RoryBecker/CR_StyleNinja) - Provides CodeIssues and Refactorings to simulate many of the StyleCop Rules.
  * CR_SplitTag - [VSGallery](https://visualstudiogallery.msdn.microsoft.com/09def305-a337-405f-b26c-202b5375ac28) \ [GitHub](https://github.com/RoryBecker/CR_SplitTag) - CodeProvider to split a HTML or XMl tag into 2 pieces at the caret.
  * CR_SortFormatTokens - [VSGallery](http://visualstudiogallery.msdn.microsoft.com/9f1adca2-0391-483d-aca4-a7ed9f9474ef) \ [GitHub](https://github.com/RoryBecker/CR_SortFormatTokens) - CodeProvider to sort and renumber the string tokens and the associated arguments of a string.format call.
  * CR_ContextualReplace - [GitHub](https://github.com/RoryBecker/CR_ContextualReplace) - Configurable Inline Contextual Replace via the CodeProvider menu.
