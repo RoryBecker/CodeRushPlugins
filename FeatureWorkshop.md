@@ -5,7 +5,7 @@ layout: SiteMaster
 
 CR_Dispos-o-matic - https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Disposomatic
 CR_EasierIdentifiers - https://code.google.com/p/dxcorecommunityplugins/wiki/CR_EasierIdentifiers
-CR_FavoriteViews - `
+CR_FavoriteViews - https://code.google.com/p/dxcorecommunityplugins/source/browse/trunk/CR_FavoriteViews/
 CR_ImportNamespace - https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ImportNamespace
 CR_MultiSelect - https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MultiSelect
 CR_ObjectInitializerToConstructor - https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ObjectInitializerToConstructor
