@@ -91,7 +91,6 @@ Please [See here for how to install these older plugins] (./InstallOlderPlugins.
  	* [DX_DirectOptions](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_DirectOptions)
  * Other
  	* [CR_JoinLines](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JoinLines)
- 	* [CR_RefreshTemplate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RefreshTemplate)
  	* [DX_CustomCollapse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_CustomCollapse)
  
 ### Where else can I find more CodeRush plugins?
