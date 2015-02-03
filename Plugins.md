@@ -86,37 +86,8 @@ The following older plugins are not currently available in VSIX format.
 Please [See here for how to install these older plugins] (./InstallOlderPlugins.html)
  
  * Generation
-	* [CR_DeclareParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_DeclareParameter)
-	* [CR_CreateDelegate](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CreateDelegate)
- 	* [CR_ImplementBaseConstructors](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ImplementBaseConstructors)
- 	* [CR_InsertNewParentClass](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_InsertNewParentClass)
- 	* [DX_ConvertRegionToPartialClass](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertRegionToPartialClass)
- 	* [DX_ConvertToTryParse](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_ConvertToTryParse)
-	* [DX_GenerateProxy](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GenerateProxy)
- 	* [DX_GuidGen](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_GuidGen)
  	* [CR_Initials](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_Initials)
- * Navigation
- 	* [CR_AttributeTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_AttributeTabber)
- 	* [CR_ClearAllMarkers](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ClearAllMarkers)
-	* [CR_JumpToImplementation](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToImplementation)
- 	* [CR_JumpToNamedMVCView](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToNamedMVCView)
- 	* [CR_JumpToType](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JumpToType)
- 	* [CR_MarkerCloseOnCollect](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MarkerCloseOnCollect)
- 	* [CR_NavigateToDefinition](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_NavigateToDefinition)
- 	* [CR_RegionTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RegionTabber)
- 	* [CR_ToDoTabber](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_ToDoTabber)
- 	* [DX_InterfaceNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_InterfaceNav)
- 	* [DX_TabNav](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_TabNav)
- * Editing
- 	* [CR_CautiousChange](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_CautiousChange)
- * Refactoring
- 	* [CR_PromoteExpressionToParameter](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_PromoteExpressionToParameter)
- * Cleanup
- 	* [CR_RemoveRegions](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_RemoveRegions)
- * Analysis
- 	* [CR_StyleNinja](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_StyleNinja)
  * Menus
-   	* [CR_MenuPlus](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_MenuPlus)
  	* [DX_DirectOptions](https://code.google.com/p/dxcorecommunityplugins/wiki/DX_DirectOptions)
  * Other
  	* [CR_JoinLines](https://code.google.com/p/dxcorecommunityplugins/wiki/CR_JoinLines)
